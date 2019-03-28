@@ -1,0 +1,1 @@
+try to make the boot print via interrupts in the cpu
